@@ -1,10 +1,7 @@
  <!-- 创建人：邴鑫 -->
 <template>
   <div>
-       <div id="nav">
-            <router-link to="/">Home</router-link> |
-            <router-link to="/about">About</router-link>
-        </div>
+      <HeaderTop />
       <router-view></router-view>
   </div>
 </template>

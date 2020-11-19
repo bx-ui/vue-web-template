@@ -8,6 +8,9 @@ import 'nprogress/nprogress.css'  // 加载进度条
 
 import './components'  //引入全局组件
 
+// 引入reset.css
+import "@/styles/reset.scss"
+
 import ElementUI from 'element-ui'
 import locale from 'element-ui/lib/locale/lang/en'
 import './styles.scss'
