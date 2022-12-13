@@ -10,7 +10,7 @@
     "axios": "^0.21.0",
     "core-js": "^3.6.5",
     "element-ui": "^2.3.6",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "normalize.css": "^8.0.1",
     "nprogress": "^0.2.0",
     "vue": "^2.6.11",
